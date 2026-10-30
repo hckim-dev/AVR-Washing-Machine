@@ -14,3 +14,35 @@ GoogleService-Info.plist
 *.pfx
 *.pem
 *.key
+
+# Atmel Studio generated build directories
+/Debug/
+/Release/
+
+# AVR compiler / linker outputs
+*.o
+*.d
+*.elf
+*.hex
+*.eep
+*.lss
+*.map
+*.srec
+*.a
+*.usersignatures
+
+# IDE per-user state
+.vs/
+*.atsuo
+*.suo
+*.user
+
+# Temporary files and OS metadata
+*.tmp
+*.bak
+*~
+Thumbs.db
+.DS_Store
+
+# Local video original; documentation links to the GitHub-hosted demo
+/docs/videos/washing_machine.mp4

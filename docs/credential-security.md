@@ -2,8 +2,7 @@
 
 Never commit real passwords, server secrets, access tokens, private keys, or signing stores.
 Use environment variables, CI secrets, or an ignored local configuration file. Commit only
-empty example files. API/client keys in an APK can be extracted: configure provider restrictions
-and keep server credentials on a trusted server.
+empty example files. Keep firmware source and project configuration free of live credentials.
 
 Install [Gitleaks v8.30.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.30.1).
 Before committing, run `gitleaks git . --pre-commit --staged --config .gitleaks.toml --redact=100`.

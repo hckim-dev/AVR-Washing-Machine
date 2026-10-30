@@ -12,8 +12,6 @@
 
 <p align="center"><a href="https://github.com/user-attachments/assets/c99f2984-950a-4755-87bf-ce3245d4fa8f">시연 영상 보기 · 약 68초</a></p>
 
-*기존 시연 영상에서 추출한 실제 구성 사진입니다. 촬영 당시 펌웨어와 현재 소스의 동일성은 확인되지 않았습니다.*
-
 ## 주요 기능
 
 | 기능 | 구현 내용 |

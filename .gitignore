@@ -43,6 +43,3 @@ GoogleService-Info.plist
 *~
 Thumbs.db
 .DS_Store
-
-# Local video original; documentation links to the GitHub-hosted demo
-/docs/videos/washing_machine.mp4
